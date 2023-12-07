@@ -1,0 +1,454 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    font-size: 20px;
+    background-color: #0e89cb;
+    color: white;
+    padding: 10px;
+    /* padding-top: 15px; */
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    /* padding: 20px; */
+    /* gap: 5rem; */
+    color: #0e89cb;
+}
+
+ul {
+    display: flex;
+    gap: 6rem;
+    align-items: center;
+}
+
+ul li {
+    list-style: none;
+}
+
+select {
+    font-size: 15px;
+    border: none;
+    color: #0e89cb;
+}
+.content {
+    padding: 20px 150px;
+    background: url(images/istockphoto-6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.online {
+    font-size: 80px;
+}
+
+.you {
+    padding-bottom: 100px;
+    padding-top: 80px;
+    font-size: 17px;
+}
+
+.web {
+    padding-top: 30px;
+    font-size: 22px;
+}
+
+.button {
+    padding: 10px 20px;
+    background: none;
+    color: white;
+    margin-top: 70px;
+}
+
+.content1 {
+    display: flex;
+    gap: 7rem;
+    /* padding-top: 20px; */
+    padding: 100px;
+}
+
+.about {
+    font-size: 33px;
+    padding-bottom: 10px;
+}
+.body1 {
+    font-size: 23px;
+    color:blue;
+}
+
+.body2 {
+    font-size: 22px;
+}
+
+.web1 {
+    padding-top: 20px;
+    color: #0e89cb;
+    padding-bottom: 10px;
+}
+
+.brand {
+    padding-left: 37px;
+    display: flex;
+    gap: 2rem;
+}
+
+.webdev {
+    background-color: gainsboro;
+    text-align: center;
+    border: 1px solid;
+    margin-left: 16px;
+}
+
+.brand1 {
+    display: flex;
+    padding-left: 37px;
+    gap: 2rem;
+    padding-top: 50px;
+}
+
+.buy {
+    margin-bottom: 12px;
+    padding: 5px 30px;
+    border:1px solid blue;
+    background: none;
+    color: blue;
+}
+
+.serve {
+    color: #0e89cb;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.bodycontent {
+    background-color: gainsboro;
+    /* margin-left: 50px; */
+}
+
+.connect1 {
+    padding-top: 100px;
+}
+
+.bodycontent2 {
+    padding:80px;
+    text-align: center;
+    background: url(images/istockphoto-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.business {
+    font-size: 88px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.mission {
+    font-size: 28px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.Contact {
+    padding: 20px 40px;
+    background: none;
+    font-size: 20px;
+    color: white;
+    border: 1px solid white;
+}
+
+.drive {
+    display: flex;
+    padding-top: 100px;
+    align-items: center;
+    padding-left: 100px;
+}
+
+.content5 {
+    font-size: 22px;
+    padding-left: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.drive1 {
+    font-size: 50px;
+    color: blue;
+}
+
+.integrity {
+    display: flex;
+    padding-top: 100px;
+    align-items: center;
+}
+
+.integrity1 {
+    padding-left: 100px;
+    font-size: 22px;
+}
+
+.A {
+    font-size: 50px;
+    color: blue;
+}
+
+.image {
+    margin-left: 300px;
+}
+.buy1 {
+    padding: 10px 40px;
+    background: none;
+    color: #0e89cb;
+    border: 1px solid blue;
+    margin-top: 30px;
+}
+
+.choose1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+    color: white;
+}
+
+.choose {
+    background-color: blue;
+}
+.icon1 {
+    gap: 10rem;
+    color: white;
+    padding-top: 50px;
+}
+
+.bi-unity {
+    padding-left: 100px;
+    padding-right: 300px;
+}
+
+.bi-universal-access {
+    padding-right: 300px;
+}
+
+.bi-sourceforge {
+    padding-right: 300px;
+}
+
+.image2 {
+    margin-top: 70px;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+
+.B {
+    display: flex;
+    align-items: center;
+}
+
+.real {
+    padding-left: 70px;
+    font-size: 25px;
+    color: white;
+}
+
+.C {
+    font-size: 40px;
+}
+
+.digital {
+    padding-top: 50px;
+    text-align: center;
+    background: url(images/seo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* opacity: 10px; */
+    color: white;
+}
+
+.connect2 {
+    padding-top: 30px;
+}
+
+.digit {
+    font-size: 100px;
+}
+
+.digit1 {
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.Contact1 {
+    padding: 10px 40px;
+    font-size: 20px;
+    margin-top: 50px;
+    border: 1px solid white;
+    background: none;
+    color: white;
+}
+
+
+.explore {
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+    padding-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.portfolio {
+    display: flex;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 480px;
+}
+
+.man {
+    padding-right: 20px;
+}
+
+.connect3 {
+    padding-top: 70px;
+}
+
+.portfolio1 {
+    background-color: floralwhite;
+}
+
+.carousel-caption {
+    text-align: center;
+    height: 80vh;
+}
+
+.second {
+    font-size:25px ;
+    padding-bottom: 20px;
+}
+
+.purchase {
+    font-size: 80px;
+    padding-bottom: 20px ;
+}
+
+.now {
+    padding: 10px 30px;
+    background: none;
+    border: 1px solid white;
+    color: white;
+}
+
+.E {
+    font-size: 120px;
+    padding-bottom: 10px;
+}
+
+.F {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.sales {
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+
+.funnel {
+    font-size: 100px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.G {
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.H {
+    padding-left: 100px;
+    font-size: 20px;
+}
+
+.icons1 {
+    padding-left: 100px;
+    font-size: 20px;
+    color:blue;
+    margin-right: 20px;
+    /* display: flex; */
+}
+
+.bi-facebook {
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.bi-instagram {
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.bi-twitter {
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.bi-whatsapp {
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.bi-tiktok {
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 30%;
+    margin-right: 15px;
+}
+
+.comp {
+    padding-bottom: 40px;
+}
+
+.home {
+    padding: 5px 50px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+    background: none;
+    border: 1px solid blue;
+    color: blue;
+    margin-bottom: 50px;
+}
+
+.downcontent {
+    background-color: gainsboro;
+}
+
+.J {
+    background-color: black;
+    padding-top: 40px;
+    font-size: 20px;
+}
+
+.K {
+    text-align: center;
+    color: white;
+} 
+
+.connect4 {
+    padding-top: 150px;
+}
